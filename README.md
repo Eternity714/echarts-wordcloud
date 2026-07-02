@@ -31,6 +31,8 @@ import 'echarts-wordcloud';
 
 ⚠️ NOTE:
 
+echarts-wordcloud@3 is for echarts@6
+
 echarts-wordcloud@2 is for echarts@5
 
 echarts-wordcloud@1 is for echarts@4
